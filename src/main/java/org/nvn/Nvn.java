@@ -20,4 +20,22 @@ System.out.println("Greens");
 	public void method6() {
 		System.out.println("Greens");
 	}
+	public void method7() {
+		System.out.println("Greens");
+	
+}
+
+	public void method11() {
+		System.out.println("Greens");
+
+	} 
+	public void method12() {
+		System.out.println("Greens");
+
+	}
+
+
+
+
+	
 }
