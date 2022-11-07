@@ -34,9 +34,7 @@ System.out.println("Greens");
 
 	}
 
-		public void method13() {
-	
-		System.out.println("Greens");}
+
 
 
 	
