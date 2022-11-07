@@ -11,6 +11,7 @@ System.out.println("Greens");
 	public void method3() {
 System.out.println("Greens");
 	}
+
 	public void method11() {
 		System.out.println("Greens");
 
@@ -23,4 +24,14 @@ System.out.println("Greens");
 		public void method13() {
 	
 		System.out.println("Greens");}
+
+	public void method4() {
+		System.out.println("Greens");
+	}
+	public void method5() {
+		System.out.println("Greens");
+	}
+	public void method6() {
+		System.out.println("Greens");
+	}
 }
